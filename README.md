@@ -8,6 +8,7 @@ This is a solution for the ELC activity.
 pip install uv
 uv venv
 .venv\Scripts\activate
+uv sync
 ```
 
 ## CLI
